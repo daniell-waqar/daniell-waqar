@@ -12,7 +12,7 @@
 - 👨‍💻 I’m currently learning **Web development**
 
 
-- 💬 Ask me about **Python...C++**
+- 💬 Ask me about **Python/C++/Assembly**
 
 - 📫 How to reach me **vikitech524@gmail.com**
 
