@@ -1,151 +1,216 @@
 <div align="center">
 
-# Hey, I'm Waqar Ahmed 👋
-### AI Engineer @ Visualyfe · ML / NLP / Deep Learning · Full-Stack (React · Next.js)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1B263B&height=160&section=header&text=Waqar%20Ahmed&fontSize=52&fontColor=FFC300&fontAlignY=45&desc=AI%20Engineer%20%7C%20ML%20%C2%B7%20DL%20%C2%B7%20NLP%20%C2%B7%20Full-Stack&descAlignY=68&descSize=18&descColor=E0E1DD)
 
-Computer Science grad turning messy real-world data into models that actually ship —
-and building the interfaces people use to reach them.
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FFC300&center=true&vCenter=true&width=700&lines=%3E+whoami;%3E+AI+Engineer+%40+Visualyfe;%3E+Building+ML+pipelines+that+actually+ship;%3E+From+raw+data+to+deployed+model_)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Building+ML+pipelines+end-to-end;From+raw+data+to+deployed+model;Currently%3A+LangChain+%2B+RAG+%2B+Agents)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqarahmedme7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1B2A?style=for-the-badge&logo=github&logoColor=FFC300)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=FFC300)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-0D1B2A?style=for-the-badge&logo=gmail&logoColor=FFC300)](mailto:waqarahmedme7@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🧭 Where I am right now
+<table width="100%">
+<tr><td>
 
-```mermaid
-timeline
-    title My path so far
-    2021 - 2025 : BS Computer Science, FAST NUCES Karachi
-    Nov 2024 - Jan 2025 : Front-End Dev Intern @ Reallytics.ai
-                        : React + Next.js + Firebase
-    Feb 2025 - Present : AI Engineer @ Visualyfe
-                       : ML, DL, NLP, model deployment
-    Sep 2025 - Dec 2025 : Python Instructor @ Source Code Academy
+🔴 🟡 🟢 &nbsp; **~/about — zsh**
+
+```
+$ whoami
+> Waqar Ahmed — AI Engineer @ Visualyfe, Karachi PK
+
+$ cat mission.txt
+> Turning messy, real-world data into models that ship —
+> then wiring them into interfaces people actually use.
+
+$ cat education.txt
+> BS Computer Science — FAST NUCES, Karachi (2021 – 2025)
 ```
 
----
+</td></tr>
+</table>
 
-## 🧠 How I build ML/AI systems
+<br>
+
+<table width="100%">
+<tr><td>
+
+🔴 🟡 🟢 &nbsp; **~/experience — history**
+
+```
+Feb 2025 - Present    AI Engineer @ Visualyfe
+                       ML · Deep Learning · NLP · model deployment
+
+Sep 2025 - Dec 2025    Python Instructor @ Source Code Academy
+                       Taught Python, DSA & OOP to 50+ students
+
+Nov 2024 - Jan 2025    Front-End Dev Intern @ Reallytics.ai
+                       React · Next.js · Firebase · Agile sprints
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr><td>
+
+🔴 🟡 🟢 &nbsp; **~/pipeline — how I build AI systems**
 
 ```mermaid
 flowchart LR
-    A[Raw / Messy Data] --> B[EDA + Cleaning<br/>outlier detection]
+    A[Raw / Messy Data] --> B[EDA + Cleaning]
     B --> C[Feature Engineering]
-    C --> D{Model Type?}
+    C --> D{Model Type}
     D -->|Tabular| E[XGBoost / Random Forest]
     D -->|Text| F[BERT / TF-IDF / Word2Vec]
     D -->|Vision| G[CNN / ResNet / ViT]
-    E --> H[Hyperparameter Tuning]
+    E --> H[Tuning + Eval]
     F --> H
     G --> H
-    H --> I[Deployment<br/>Flask · FastAPI · Streamlit]
+    H --> I[Deploy: Flask/FastAPI/Streamlit]
     I --> J[React / Next.js Frontend]
 ```
 
-Every project below is a real pass through this pipeline — not a tutorial dataset.
+</td></tr>
+</table>
 
----
+<br>
 
-## 🚀 Featured Projects
+<table width="100%">
+<tr><td width="50%" valign="top">
 
-### 🚕 Uber Fare Prediction
-**Problem:** Raw ride data is noisy — corrupted GPS points, missing fares, no obvious signal.
-**What I did:**
-- Cleaned **190k+ real Uber trips**, removing under 5% of records using IQR + percentile outlier detection
-- Implemented the **Haversine formula from scratch** to compute trip distance from raw GPS — it became the single most important feature at **90% model importance**
-- Engineered temporal features (rush hour, night, weekend flags) to capture NYC pricing patterns
-- Compared Linear Regression, Random Forest, and Gradient Boosting
+🔴 🟡 🟢 &nbsp; **~/projects/uber-fare — README**
 
-**Result:** Gradient Boosting won with **R² of 0.83** and **RMSE of $3.50** — then shipped as a live interactive Streamlit app.
+```
+$ cat summary.md
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
+Cleaned 190k+ real Uber trips using
+IQR + percentile outlier detection
+(<5% records removed).
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C4B4?style=flat-square&logo=streamlit&logoColor=white)](#)
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](#)
+Implemented Haversine formula from
+scratch for trip distance — became
+the #1 feature at 90% importance.
 
----
+Compared Linear Regression, Random
+Forest, Gradient Boosting.
 
-### 🩺 GraphMedX
-**Problem:** Clinical notes are unstructured — relationships between symptoms, diagnoses, and treatments stay buried in free text.
-**What I did:**
-- Built an **NLP pipeline** to extract medical entities from unstructured clinical text
-- Linked extracted entities into a **knowledge graph** using NetworkX
-- Surfaced non-obvious relationships between symptoms, diagnoses, and treatments via graph algorithms
+> Result: R² = 0.83, RMSE = $3.50
+> Shipped as a live Streamlit app.
+```
 
-`Python` `NLTK` `NetworkX` `OpenAI API` `PyTesseract`
+`Python` `Scikit-learn` `Pandas` `Streamlit`
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](#)
+[![Demo](https://img.shields.io/badge/Live-Demo-0D1B2A?style=flat-square&logo=streamlit&logoColor=FFC300)](#)
+[![Repo](https://img.shields.io/badge/View-Repo-0D1B2A?style=flat-square&logo=github&logoColor=FFC300)](#)
 
----
+</td><td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+🔴 🟡 🟢 &nbsp; **~/projects/graphmedx — README**
+
+```
+$ cat summary.md
+
+Built an NLP pipeline extracting
+medical entities from unstructured
+clinical text.
+
+Linked entities into a knowledge
+graph using NetworkX.
+
+Surfaced non-obvious relationships
+between symptoms, diagnoses and
+treatments via graph algorithms.
+
+> Stack: NLTK, OpenAI API, PyTesseract
+```
+
+`Python` `NLTK` `NetworkX` `OpenAI API`
+
+[![Repo](https://img.shields.io/badge/View-Repo-0D1B2A?style=flat-square&logo=github&logoColor=FFC300)](#)
+
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr><td>
+
+🔴 🟡 🟢 &nbsp; **~/skills — ls -la**
 
 <div align="center">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**ML / AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Web**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=for-the-badge&logo=python&logoColor=FFC300)
+![C++](https://img.shields.io/badge/C++-0D1B2A?style=for-the-badge&logo=c%2B%2B&logoColor=FFC300)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=FFC300)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=FFC300)
+<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1B2A?style=for-the-badge&logo=tensorflow&logoColor=FFC300)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1B2A?style=for-the-badge&logo=pytorch&logoColor=FFC300)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0D1B2A?style=for-the-badge&logo=scikitlearn&logoColor=FFC300)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1B2A?style=for-the-badge&logo=huggingface&logoColor=FFC300)
+![LangChain](https://img.shields.io/badge/LangChain-0D1B2A?style=for-the-badge&logoColor=FFC300)
+<br>
+![React](https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=FFC300)
+![Next.js](https://img.shields.io/badge/Next.js-0D1B2A?style=for-the-badge&logo=next.js&logoColor=FFC300)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1B2A?style=for-the-badge&logo=tailwindcss&logoColor=FFC300)
+![Firebase](https://img.shields.io/badge/Firebase-0D1B2A?style=for-the-badge&logo=firebase&logoColor=FFC300)
+<br>
+![Docker](https://img.shields.io/badge/Docker-0D1B2A?style=for-the-badge&logo=docker&logoColor=FFC300)
+![Git](https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=FFC300)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1B2A?style=for-the-badge&logo=streamlit&logoColor=FFC300)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1B2A?style=for-the-badge&logo=mongodb&logoColor=FFC300)
 
 </div>
 
----
+</td></tr>
+</table>
 
-## 📈 GitHub Stats
+<br>
+
+<table width="100%">
+<tr><td>
+
+🔴 🟡 🟢 &nbsp; **~/stats — top**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=FFC300&icon_color=FFC300&text_color=E0E1DD" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=FFC300&text_color=E0E1DD" width="35%" />
 
 </div>
 
----
+</td></tr>
+</table>
 
-## 🎓 Education & Certifications
+<br>
 
-**BS Computer Science** — FAST National University of Computer and Emerging Sciences, Karachi (2021–2025)
+<table width="100%">
+<tr><td>
 
-- IBM Data Analyst
-- Google Advanced Python Programming
-- Prodigy InfoTech — Machine Learning Internship
-- Visualyfe — Internship Completion + Recommendation Letter
+🔴 🟡 🟢 &nbsp; **~/contact — mail**
 
----
+```
+$ cat contact.txt
+> Email     waqarahmedme7@gmail.com
+> GitHub    github.com/YOUR_GITHUB_USERNAME
+> LinkedIn  linkedin.com/in/YOUR_LINKEDIN
+
+$ echo $STATUS
+> Open to AI Engineer / ML roles
+```
+
+</td></tr>
+</table>
 
 <div align="center">
+<br>
 
-**Currently exploring:** agentic RAG systems, LangChain-based pipelines, and making deployed models survive contact with real users.
-
-📫 **waqarahmedme7@gmail.com**
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1B263B,100:0D1B2A&height=60&section=footer)
 
 </div>
