@@ -1,55 +1,55 @@
 <div align="center">
 
-<table width="100%"><tr>
-<td width="34%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE14D,100:FFE14D&height=14" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=14" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3B6B,100:FF3B6B&height=14" width="100%"/></td>
-</tr></table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=190&text=WAQAR%20AHMED&fontSize=52&fontColor=FFE14D&fontAlignY=45&desc=AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER&descAlignY=68&descSize=16&descColor=FF3B6B" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=111111&background=FFE14D00&center=true&vCenter=true&width=680&lines=%3E+RAW+DATA+IN.+DEPLOYED+MODEL+OUT.;%3E+NO+TEMPLATE.+NO+FILLER.+JUST+BUILT.;%3E+KARACHI+%E2%86%92+PRODUCTION" alt="typing"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Waqar%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20intelligent%20systems&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
-
-<br>
-
-> Computer Science, FAST NUCES. Currently building AI systems at **Visualyfe** —
-> preprocessing through deployment, then the interface on top of it. No fluff,
-> no unnecessary spinners.
-
-<table width="100%"><tr>
-<td width="34%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3B6B,100:FF3B6B&height=8" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=8" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE14D,100:FFE14D&height=8" width="100%"/></td>
-</tr></table>
 
 <br>
 
 <div align="center">
-
-### STACK
-
-<img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,pytorch,tensorflow,docker,firebase,git,github,linux&theme=dark" />
-
-<sub><b>+ LangChain · scikit-learn · FastAPI · RAG</b></sub>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=training+models+that+don%27t+hallucinate+(much);shipping+ML+pipelines+to+production;fine-tuning+LLMs+on+weekends" />
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="background-color:#FFE14D;">
+```yaml
+whoami:
+  name:         "Waqar Ahmed"
+  role:         "AI / Machine Learning Engineer"
+  based_in:     "Karachi, Pakistan"
+  focus:        ["LLMs", "MLOps", "Computer Vision", "RAG Systems"]
+  currently:    "building something with transformers"
+  philosophy:   "ship fast, evaluate faster"
+```
 
-**DAY TO DAY**
-End-to-end ML — cleaning, feature engineering, training, deployment. Mostly Python. Mostly on data that wasn't cleaned for me.
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### ⚡ about
+
+I design, train, and deploy machine learning systems — everything from early-stage research prototypes to production-grade inference pipelines.
+
+I'm especially interested in the intersection of LLM reasoning, retrieval, and applied ML infrastructure. There's something satisfying about taking a model out of a notebook and turning it into something people actually use.
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**ON THE SIDE**
-Agentic systems and retrieval — where an LLM stops answering and starts deciding what to do next.
+### 🎯 focus areas
+
+```
+├── Large Language Models
+│   ├── fine-tuning & alignment
+│   ├── prompt & context engineering
+│   └── RAG / agentic pipelines
+├── MLOps
+│   ├── model serving & scaling
+│   └── experiment tracking
+└── Computer Vision
+    └── detection & segmentation
+```
 
 </td>
 </tr>
@@ -59,20 +59,9 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&border_radius=0&border_color=111111&bg_color=FFE14D&title_color=111111&icon_color=111111&text_color=111111" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&border_radius=0&border_color=111111&bg_color=FF3B6B&title_color=111111&text_color=111111" width="35%"/>
+### 🧠 tech stack
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniell-waqar&hide_border=false&border_radius=0&border=111111&background=3D5AFE&ring=111111&fire=111111&currStreakLabel=111111&stroke=111111" width="60%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=daniell-waqar&theme=flat&no-frame=true&no-bg=false&row=1&column=6&margin-w=6"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,gcp,git,postgres,redis,linux&theme=dark&perline=6" />
 
 </div>
 
@@ -80,32 +69,61 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 
 <div align="center">
 
-### LIVE FEED — CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/daniell-waqar/daniell-waqar/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>One-time setup required — see note below.</sub>
+### 📊 skills
 
 </div>
 
-<br>
+<table align="center" width="80%">
+<tr><td width="200"><b>Python</b></td><td>
 
-<table width="100%"><tr>
-<td width="34%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=8" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE14D,100:FFE14D&height=8" width="100%"/></td>
-<td width="33%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3B6B,100:FF3B6B&height=8" width="100%"/></td>
-</tr></table>
+`███████████████████░` 95%
+
+</td></tr>
+<tr><td><b>PyTorch / TensorFlow</b></td><td>
+
+`█████████████████░░░` 88%
+
+</td></tr>
+<tr><td><b>LLMs / NLP</b></td><td>
+
+`██████████████████░░` 90%
+
+</td></tr>
+<tr><td><b>MLOps / Deployment</b></td><td>
+
+`████████████████░░░░` 80%
+
+</td></tr>
+<tr><td><b>Cloud (AWS/GCP)</b></td><td>
+
+`███████████████░░░░░` 75%
+
+</td></tr>
+</table>
 
 <br>
 
 <div align="center">
 
-<a href="mailto:waqarahmedme7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFE14D"/></a>
-<a href="https://github.com/daniell-waqar"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF3B6B"/></a>
-<a href="https://linkedin.com/in/waqarahmed-dev"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=3D5AFE"/></a>
+### 📈 activity
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=60" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" height="165"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 🌐 connect
+
+<a href="https://linkedin.com/in/waqarahmed-dev"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:waqarahmedme7@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
