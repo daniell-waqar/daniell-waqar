@@ -59,10 +59,10 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/daniell-waqarE&show_icons=true&hide_border=false&border_radius=0&border_color=111111&bg_color=FFE14D&title_color=111111&icon_color=111111&text_color=111111" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&border_radius=0&border_color=111111&bg_color=FFE14D&title_color=111111&icon_color=111111&text_color=111111" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&border_radius=0&border_color=111111&bg_color=FF3B6B&title_color=111111&text_color=111111" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=false&border_radius=0&border=111111&background=3D5AFE&ring=111111&fire=111111&currStreakLabel=111111&stroke=111111" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniell-waqar&hide_border=false&border_radius=0&border=111111&background=3D5AFE&ring=111111&fire=111111&currStreakLabel=111111&stroke=111111" width="60%"/>
 
 </div>
 
@@ -72,7 +72,7 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 
 ### ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/daniell-waqar&theme=flat&no-frame=true&no-bg=false&row=1&column=6&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=daniell-waqar&theme=flat&no-frame=true&no-bg=false&row=1&column=6&margin-w=6"/>
 
 </div>
 
@@ -82,7 +82,7 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 
 ### LIVE FEED — CONTRIBUTION SNAKE
 
-<img src="https://raw.githubusercontent.com/https://github.com/daniell-waqar/https://github.com/daniell-waqar/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/daniell-waqar/daniell-waqar/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <sub>One-time setup required — see note below.</sub>
 
@@ -101,8 +101,8 @@ Agentic systems and retrieval — where an LLM stops answering and starts decidi
 <div align="center">
 
 <a href="mailto:waqarahmedme7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFE14D"/></a>
-<a href="https://github.com/https://github.com/daniell-waqar"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF3B6B"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=3D5AFE"/></a>
+<a href="https://github.com/daniell-waqar"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF3B6B"/></a>
+<a href="https://linkedin.com/in/waqarahmed-dev"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=3D5AFE"/></a>
 
 <br><br>
 
